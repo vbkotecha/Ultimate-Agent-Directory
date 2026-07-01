@@ -5,8 +5,8 @@ description: Benchmark for evaluating multimodal agents on open-ended computer t
   browser, file, coding, and desktop automation evaluation.
 github_repo: xlang-ai/OSWorld
 documentation_url: https://os-world.github.io
-github_stars: 2936
-last_updated: '2026-06-10'
+github_stars: 2985
+last_updated: '2026-06-24'
 is_archived: false
 category: browser-automation
 tags:

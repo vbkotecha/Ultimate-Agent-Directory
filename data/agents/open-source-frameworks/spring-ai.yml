@@ -5,8 +5,8 @@ description: Spring application framework for AI engineering. Spring AI integrat
   agentic patterns into the Spring and Spring Boot ecosystem.
 github_repo: spring-projects/spring-ai
 documentation_url: https://docs.spring.io/spring-ai/reference/index.html
-github_stars: 8940
-last_updated: '2026-06-12'
+github_stars: 9045
+last_updated: '2026-06-30'
 is_archived: false
 category: open-source-frameworks
 tags:

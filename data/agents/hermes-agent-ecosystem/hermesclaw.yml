@@ -4,8 +4,8 @@ description: Community bridge that lets Hermes Agent and OpenClaw run on the sam
   WeChat account. Useful for migration, side-by-side testing, or operating both
   runtimes from a shared Chinese messaging surface.
 github_repo: AaronWong1999/hermesclaw
-last_updated: '2026-04-29'
-github_stars: 618
+last_updated: '2026-06-15'
+github_stars: 654
 is_archived: false
 category: hermes-agent-ecosystem
 added_date: '2026-05-04'
