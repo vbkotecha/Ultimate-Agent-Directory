@@ -5,8 +5,8 @@ description: Open-source TypeScript AI agent framework and engineering platform 
   memory, tool use, MCP integration, and an optional cloud console.
 github_repo: VoltAgent/voltagent
 documentation_url: https://voltagent.dev
-github_stars: 9874
-last_updated: '2026-07-01'
+github_stars: 10047
+last_updated: '2026-07-13'
 is_archived: false
 category: open-source-frameworks
 tags:

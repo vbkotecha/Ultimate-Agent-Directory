@@ -5,8 +5,8 @@ description: Open-source crawler and scraper that converts websites into LLM-fri
   browser automation, extraction, and Markdown-oriented outputs.
 github_repo: unclecode/crawl4ai
 documentation_url: https://crawl4ai.com
-github_stars: 70522
-last_updated: '2026-06-28'
+github_stars: 72639
+last_updated: '2026-07-14'
 is_archived: false
 category: browser-automation
 tags:

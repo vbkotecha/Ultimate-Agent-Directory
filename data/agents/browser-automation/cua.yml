@@ -5,8 +5,8 @@ description: Open-source infrastructure for computer-use agents, including sandb
   Windows agent environments.
 github_repo: trycua/cua
 documentation_url: https://cua.ai
-github_stars: 19238
-last_updated: '2026-07-01'
+github_stars: 19668
+last_updated: '2026-07-15'
 is_archived: false
 category: browser-automation
 tags:

@@ -5,8 +5,8 @@ description: Community plugin collection for Hermes Agent covering goal manageme
   run multiple Hermes instances or need more governance around model and budget
   choices.
 github_repo: 42-evey/hermes-plugins
-last_updated: '2026-06-20'
-github_stars: 256
+last_updated: '2026-07-12'
+github_stars: 272
 is_archived: false
 category: hermes-agent-ecosystem
 added_date: '2026-05-04'
